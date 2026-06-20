@@ -5,6 +5,24 @@ Simulador de chatbot en consola que automatiza el proceso de solicitud de vacaci
 
 ---
 
+## Autores y contribuciones
+
+### Lucca Weinzettel
+
+Diagrama BPMN 2.0
+Desarrollo del código Python (bot.py, datos.py)
+Diseño de la máquina de estados y validaciones de error
+Pruebas de estrés y casos de error documentados
+Configuración del repositorio en GitHub
+
+### Juan Cruz Caminos
+
+Análisis de la empresa ficticia (proceso "As-Is" y "To-Be")
+Pruebas de estrés y casos de error documentados
+Armado y formato del informe final en PDF
+Documentación técnica (diccionario de datos, manual de usuario)
+
+
 ## Archivos del proyecto
 
 | Archivo | Descripción |
